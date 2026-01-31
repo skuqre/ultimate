@@ -1,6 +1,6 @@
 This GitHub repository is the place to report issues with Ultimate Scenario Creator.
 
-The Wiki is available here: https://github.com/skuqre/ultimate/wiki/
+The Wiki is available here: https://github.com/skuqre/ultimate/wiki/ <br>
 Report issues here: https://github.com/skuqre/ultimate/issues/
 
 ---

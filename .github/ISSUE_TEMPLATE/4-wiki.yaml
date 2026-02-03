@@ -1,6 +1,8 @@
 name: Wiki
 description: Inquiries specifically for the Wiki.
 title: '[Wiki]: '
+labels:
+  - wiki
 body:
   - type: textarea
     attributes:

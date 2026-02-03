@@ -1,0 +1,41 @@
+name: Bug report
+description: Encountered a bug? Report it through this form!
+title: '[Bug]: '
+assignees:
+  - skuqre
+labels:
+  - bug
+body:
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Describe what bug happened.
+      placeholder: I encountered a bug when I...
+    validations:
+      required: true
+  - type: textarea
+    id: what-expect
+    attributes:
+      label: What did you expect to happen?
+      description: The result that was wanted.
+  - type: markdown
+    attributes:
+      value: >-
+        Try to provide a proper description and a step-by-step for the developer
+        to have a better understanding. Your help is appreciated!
+  - type: checkboxes
+    id: to-do
+    attributes:
+      label: Double-checking
+      options:
+        - label: I have changed the title to include a short description of the bug.
+          required: true
+        - label: >-
+            I have looked around the Issues tab and have not seen any similar
+            issues to this issue.
+          required: true
+        - label: I have provided the proper information for the developers to fix.
+          required: true
+        - label: I am using the latest version.
+          required: true

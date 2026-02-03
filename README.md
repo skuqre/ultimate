@@ -1,9 +1,14 @@
-This GitHub repository is the place to report issues with Ultimate Scenario Creator.
+This GitHub repository is the primary place to **report issues** and **host the Wiki** for the Ultimate Scenario Creator.
 
-The Wiki is available here: https://github.com/skuqre/ultimate/wiki/ <br>
-Report issues here: https://github.com/skuqre/ultimate/issues/
+- **Learn more about USC with the Wiki**: https://github.com/skuqre/ultimate/wiki/
+- **Caught a bug? Report your issues**: https://github.com/skuqre/ultimate/issues/
+
+You can also suggest ideas, ask questions, and more at the Issues tab.
 
 ---
 
-(we're just setting up, the link isn't available yet)
-You are able to download Ultimate Scenario Creator on itch.io here: https://skuqre.itch.io/ultimate-scenario-creator/
+**Get Ultimate Scenario Creator over here**: https://skuqre.itch.io/ultimate-scenario-creator/
+
+> [!IMPORTANT]  
+> Ultimate Scenario Creator is **free for everyone**. The official download is **only available at [itch.io](https://skuqre.itch.io/ultimate-scenario-creator/) and nowhere else**.<br>
+> If you downloaded Ultimate Scenario Creator from somewhere else, you may have been scammed.

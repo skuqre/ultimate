@@ -1,0 +1,21 @@
+name: Wiki
+description: Inquiries specifically for the Wiki.
+title: '[Wiki]: '
+body:
+  - type: textarea
+    attributes:
+      label: What's your inquiry?
+    validations:
+      required: true
+  - type: checkboxes
+    attributes:
+      label: Double-checking
+      options:
+        - label: >-
+            I have changed the title to include a short description of the
+            inquiry.
+          required: true
+        - label: >-
+            I have looked around the Issues tab and have not seen any similar
+            inquiries to this inquiry.
+          required: true

@@ -1,0 +1,28 @@
+name: Question
+description: Got something to ask?
+title: '[Question]'
+assignees:
+  - skuqre
+labels:
+  - question
+body:
+  - type: textarea
+    attributes:
+      label: What is it?
+      description: '???'
+    validations:
+      required: true
+  - type: checkboxes
+    attributes:
+      label: Double-checking
+      options:
+        - label: >-
+            I have changed the title to include a short description of the
+            question.
+          required: true
+        - label: >-
+            I have looked around the Issues tab and have not seen any similar
+            questions to this question.
+          required: true
+        - label: The question makes sense.
+          required: true

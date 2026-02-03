@@ -1,6 +1,8 @@
 name: Wiki
 description: Inquiries specifically for the Wiki.
 title: '[Wiki]: '
+assignees:
+  - skuqre
 labels:
   - wiki
 body:

@@ -1,0 +1,39 @@
+name: Suggestion
+description: Suggest a feature.
+title: '[Suggestion]: '
+assignees:
+  - skuqre
+labels:
+  - suggestion
+body:
+  - type: textarea
+    attributes:
+      label: The Suggestion
+      description: What's your suggestion?
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: The Problem
+      description: What's the issue or reasoning for this suggestion?
+    validations:
+      required: true
+  - type: checkboxes
+    id: to-do
+    attributes:
+      label: Double-checking
+      options:
+        - label: >-
+            I have changed the title to include a short description of the
+            suggestion.
+          required: true
+        - label: >-
+            I have looked around the Issues tab and have not seen any similar
+            suggestions to this suggestion.
+          required: true
+        - label: >-
+            I have provided the proper information for the developers to
+            implement.
+          required: true
+        - label: I am using the latest version.
+          required: true

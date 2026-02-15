@@ -1,3 +1,11 @@
+<p align="center">
+<img height="128" alt="icon" src="https://github.com/user-attachments/assets/234d448d-addc-4f3d-abb2-93bbeab3e886" />
+<br>
+<img height="44" alt="image" src="https://github.com/user-attachments/assets/6e8d7d63-9f00-43c3-99aa-72bcacd9dd18" />
+</p>
+
+---
+
 This GitHub repository is the primary place to **report issues** and **host the Wiki** for the Ultimate Scenario Creator.
 
 - **Learn more about USC with the Wiki**: https://github.com/skuqre/ultimate/wiki/

@@ -16,7 +16,7 @@ body:
       label: Double-checking
       options:
         - label: >-
-            I have changed the title to include a short form of the
+            I have changed the title to include a short statement of the
             inquiry.
           required: true
         - label: >-

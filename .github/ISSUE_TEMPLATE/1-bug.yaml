@@ -29,7 +29,7 @@ body:
     attributes:
       label: Double-checking
       options:
-        - label: I have changed the title to include a short description of the bug.
+        - label: I have changed the title to include a short form of the bug.
           required: true
         - label: >-
             I have looked around the Issues tab and have not seen any similar

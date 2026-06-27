@@ -20,3 +20,5 @@ You can also suggest ideas, ask questions, and more at the Issues tab.
 > [!IMPORTANT]  
 > Ultimate Scenario Creator is **free for everyone**. The official download is **only available at [itch.io](https://skuqre.itch.io/ultimate-scenario-creator/) and nowhere else**.<br>
 > If you downloaded Ultimate Scenario Creator from somewhere else, you may have been scammed.
+>
+> *The Releases page is ONLY for version checking.*

@@ -6,6 +6,10 @@ assignees:
 labels:
   - wiki
 body:
+  - type: markdown
+    attributes:
+      value: |
+        Please add to the title above to include a brief statement that provides the gist of your Wiki inquiry.
   - type: textarea
     attributes:
       label: What's your inquiry?
@@ -16,10 +20,10 @@ body:
       label: Double-checking
       options:
         - label: >-
-            I have changed the title to include a short statement of the
+            I have changed the title to include a brief statement that provides the gist of the Wiki
             inquiry.
           required: true
         - label: >-
             I have looked around the Issues tab and have not seen any similar
-            inquiries to this inquiry.
+            inquiries to this Wiki inquiry.
           required: true
